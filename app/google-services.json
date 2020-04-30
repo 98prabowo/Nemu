@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "612577137085",
+    "firebase_url": "https://nemu-51b0c.firebaseio.com",
+    "project_id": "nemu-51b0c",
+    "storage_bucket": "nemu-51b0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612577137085:android:a462b5862bd2db0ed542d4",
+        "android_client_info": {
+          "package_name": "com.ee.nemu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612577137085-34lkv5ktq79i6appsd0hkti3h403tost.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjATsXGSpQRXDeV7REezfb_HmClV2Etz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612577137085-34lkv5ktq79i6appsd0hkti3h403tost.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

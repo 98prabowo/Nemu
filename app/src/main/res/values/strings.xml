@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Nemu</string>
+    <string name="signin">SIGN IN</string>
+    <string name="newaccount">NEW ACCOUNT</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="email_label">Email Address</string>
+    <string name="passion_label">Hobbi</string>
+    <string name="continue_label">CONTINUE</string>
+    <string name="nama_depan_label">Nama Depan</string>
+    <string name="nama_belakang_label">Nama Belakang</string>
+    <string name="explore_label">EXPLORE NOW</string>
+    <string name="create_account">Create New Account</string>
+    <string name="hi">Hi </string>
+    <string name="buy_ticket">BUY TICKET</string>
+    <string name="pay_now">PAY NOW</string>
+    <string name="view_ticket">VIEW TICKETS</string>
+    <string name="my_dashboard">MY DASHBOARD</string>
+    <string name="edit_profile">EDIT PROFILE</string>
+    <string name="signout">SIGN OUT</string>
+    <string name="save_profile">SAVE PROFILE</string>
+    <string name="refund">REFUND NOW</string>
+    <string name="loading">LOADING ...</string>
+    <string name="sub_header_create_account">Please fill up the forms below \nfor informations</string>
+    <string name="header_selfie_time">Selfie Time</string>
+    <string name="sub_header_selfie_time">Let the world knows yourself \nmore better and ever</string>
+    <string name="header_kamu_hebat">Kamu Hebat</string>
+    <string name="sub_header_kamu_hebat">Selamat datang pada Nemu \ndan nikmati wisatamu</string>
+    <string name="header_home_screen">Ayo \nJelajahi \nWisata Keren Lainnya</string>
+    <string name="header_succes_buy">Selamat Menikmati</string>
+    <string name="sub_header_succes_buy">Anda berhasil membeli tiket \ndan selamat berlibur</string>
+    <string name="header_edit_profile">Edit Profile</string>
+    <string name="sub_header_edit_profile">Kami menyarankan anda \nmenggunakan informasi yang benar</string>
+
+
+</resources>
